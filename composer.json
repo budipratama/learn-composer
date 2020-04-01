@@ -1,0 +1,16 @@
+{
+    "name": "budipratama/psr-4",
+    "description": "belajar",
+    "authors": [
+        {
+            "name": "budipratama",
+            "email": "boedipratama19@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Budi\\": "src/"
+        }
+    }
+}
